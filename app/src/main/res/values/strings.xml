@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">NEW</string>
+    <string name="register_reg">Register</string>
+    <string name="textview" />
+    <string name="sri_lanka_railway_reg">SRI LANKA RAILWAY</string>
+    <string name="password_reg">Password</string>
+    <string name="login">Login</string>
+    <string name="user_name_reg">User Name</string>
+    <string name="register_log">Register</string>
+    <string name="driver_id">Driver ID</string>
+    <string name="user_name_log">User Name</string>
+    <string name="mobile_no">Mobile No</string>
+    <string name="password_log">Password</string>
+    <string name="sri_lanka_railway_log">SRI LANKA RAILWAY</string>
+    <string name="start_journey">start journey</string>
+    <string name="enter_failure">enter failure</string>
+    <string name="end_journey">end journey</string>
+    <string name="get_failure_details">get failure details</string>
+    <string name="date_and_time">Date and Time</string>
+    <string name="guard_id">Guard ID</string>
+    <string name="loco_id">Loco ID</string>
+    <string name="submit">SUBMIT</string>
+    <string name="time">Time</string>
+    <string name="date">Date</string>
+    <string name="route_id">Route ID</string>
+    <string name="any_failures">Any Faiures</string>
+
+
+</resources>
